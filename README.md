@@ -25,7 +25,7 @@
 
 <div align="center">
 
-### [VrShare](https://github.com/theasxd/VrShare)
+### [VrShare](https://github.com/TurabDevs/VrShare)
 
 **Free LAN file sharing, clipboard sync & remote PC control — Windows + Android.**
 
@@ -45,9 +45,9 @@
 
 <br/>
 
-[![VrShare](https://img.shields.io/badge/🌐_Live_Site-22d3ee?style=for-the-badge)](https://theasxd.github.io/VrShare/)
-[![GitHub](https://img.shields.io/badge/⭐_Star_on_GitHub-8b5cf6?style=for-the-badge)](https://github.com/theasxd/VrShare)
-[![Download](https://img.shields.io/badge/⬇️_Download_v1.0.0-22d3ee?style=for-the-badge)](https://github.com/theasxd/VrShare/releases/tag/v1.0.0)
+[![VrShare](https://img.shields.io/badge/🌐_Live_Site-22d3ee?style=for-the-badge)](https://turabdevs.github.io/VrShare/)
+[![GitHub](https://img.shields.io/badge/⭐_Star_on_GitHub-8b5cf6?style=for-the-badge)](https://github.com/TurabDevs/VrShare)
+[![Download](https://img.shields.io/badge/⬇️_Download_v1.0.0-22d3ee?style=for-the-badge)](https://github.com/TurabDevs/VrShare/releases/tag/v1.0.0)
 
 </div>
 
